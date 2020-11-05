@@ -18,6 +18,19 @@ body {
     border-radius: 8px;
 
   }
+
+  .logo {
+    font-size: 0;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .logo span {
+    font-weight: 600;
+    font-size: 26px;
+    padding: 0;
+    margin-right: 1px;
+  }
   
   .box h2 {
     margin: 0px 0 -0.125rem;
